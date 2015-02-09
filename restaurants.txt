@@ -1,0 +1,12 @@
+Cafe Rio	Mexican	15		
+Cafe Masala	Indian	30
+Subway	Delicatessen	05
+Chili's	American	15
+pita pocket	fast food	10
+Betos	mexican	13
+Ruth's Cris	steak house	1300
+Dee's	American	8
+W	Chinese	9.00Test Me Out	Yummy Type	10.0
+Test	Taco	10
+Zupas	Delicatessen	6.00
+Pizza Hut	Pizza	15
